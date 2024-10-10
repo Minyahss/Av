@@ -13,6 +13,7 @@ header{
 
 .contato{
     display: flex;
+    
    
 }
 .idioma{
@@ -40,7 +41,7 @@ header{
     justify-content: center;
     justify-content: space-around;
     background-color: #ecf3fc;
-    align-items: baseline;
+    align-content: baseline;
     align-items: center;
     padding: 1%;
     
@@ -50,14 +51,25 @@ header{
     display: flex;
     width: 100vw;
     justify-content: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     background-color: #ffffff;
-    align-items: baseline;
     align-items: center;
-    padding: 1%;
+    padding: 3%;
 }
 .email{
     display: flex;
+    height: 18px;
+    text-indent: 8px;
+    background-color: cadetblue;
+   
+}
+
+.logotipo{
+    background-color: brown;
+}
+
+.order{
+    background-color: aquamarine;
 }
 
 button{
@@ -68,6 +80,7 @@ button{
     border-width: 5px;
     border-radius: 12px;
 }
+
 
 @media(width <= 420){
 
