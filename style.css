@@ -3,12 +3,25 @@
     padding: 0;
 }
 
-.contato{
-    display: flex;
-}
+/* parte da yasmin*/
+
 footer{
     display: flex;
+}
+.cabecalho1{
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    background-color: blueviolet;
 }
 #about{
 
 }
+
+/* parte do kawa*/
+
+
+
+/* parte do greg*/
+
+
