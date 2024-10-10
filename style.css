@@ -7,13 +7,16 @@
 
 /* parte da yasmin*/
 
-<<<<<<< HEAD
+
 footer{
     display: flex;
 }
-=======
 
->>>>>>> 57443584479de1d2ab430684addcd082fb7a14a4
+.contato{
+    display: flex;
+    background-color: aqua;
+}
+
 
 .cabecalho1{
     display: flex;
