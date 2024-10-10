@@ -11,8 +11,8 @@
     display: flex;
     background-color: aqua;
 }
-.cabectext{
-   color: #666666;
+#cabectext{
+    background-color: #666666;
 }
 
 .idioma{
@@ -47,27 +47,11 @@ footer{
     background-color: #183661;
     font-family: "Poppins", sans-serif;
 }
-#about{
-    font-size: 15px;
-    color: #ffffff;
-}
-#information{
-    font-size: 15px;
-    color: #ffffff;
-}
-#account{
-    font-size: 15px;
-    color: #ffffff;
-}
-#contacts{
+.titulo{
     font-size: 15px;
     color: #ffffff;
 }
 
-#contacts_p{
-    font-size: 14px;
-    color: #ffffff;
-}
 
 /* parte do greg*/
 
