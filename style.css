@@ -46,6 +46,28 @@ header{
     
     
 }
+.cabecalho2{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #ffffff;
+    align-items: baseline;
+    align-items: center;
+    padding: 1%;
+}
+.email{
+    display: flex;
+}
+
+button{
+    background-color: #183661;
+    color: #ffffff;
+    border-color: #183661;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 12px;
+}
 
 @media(width <= 420){
 
