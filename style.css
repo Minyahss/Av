@@ -11,8 +11,8 @@
     display: flex;
     background-color: aqua;
 }
-.redes_sociais{
-
+#cabectext{
+    background-color: #666666;
 }
 
 .idioma{
@@ -35,6 +35,7 @@ input{
     padding-top: 8px;
     align-items: baseline;
     align-items: center;
+    
     
 }
 
