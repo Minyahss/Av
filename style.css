@@ -7,6 +7,10 @@
 
 /* parte da yasmin*/
 
+header{
+    font-size: 4px;
+}
+
 .contato{
     display: flex;
    
@@ -28,7 +32,6 @@
     background-color: transparent;
     border-style: solid;
     border-radius: 12px;
-    border-width: 1px;
 }
 
 .cabecalho1{
@@ -37,12 +40,15 @@
     justify-content: center;
     justify-content: space-around;
     background-color: #ecf3fc;
-    padding-top: 8px;
     align-items: baseline;
     align-items: center;
-    font-size: 4px;
+    padding: 1%;
     
     
+}
+
+@media(width <= 420){
+
 }
 
 
