@@ -66,8 +66,20 @@ footer{
     color: #ffffff;
     margin: 5%;
 }
+#direitos{
+    text-align: center;
+    color: #141414;
+    background-color: white;
+    padding: 2%;
 
+}
 
+@media(width <= 720px){
+    footer{
+        display: flex;
+        flex-direction: column;
+    }
+}
 
 /* parte do greg*/
 
