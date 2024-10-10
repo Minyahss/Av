@@ -11,32 +11,36 @@
     display: flex;
    
 }
-.cabectext{
-    color: #666666;
-}
-
-
-
 .idioma{
-    
     display: flex;
 }
-input{
-    width: 10vw;
+
+.cabectext{
+    color: #666666;
+    font-family: Poppins;
+    font-size: 3em;
+}
+
+
+
+#lista{
+    width: 80px;
     background-color: transparent;
     border-style: solid;
-    border-radius: 16px;
+    border-radius: 12px;
     border-width: 1px;
 }
 
 .cabecalho1{
     display: flex;
     width: 100vw;
-    justify-content: space-between;
+    justify-content: center;
+    justify-content: space-around;
     background-color: #ecf3fc;
     padding-top: 8px;
     align-items: baseline;
     align-items: center;
+    font-size: 4px;
     
     
 }
