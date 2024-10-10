@@ -9,15 +9,16 @@
 
 .contato{
     display: flex;
-    background-color: aqua;
+   
 }
-#cabectext{
-    background-color: #666666;
+.cabectext{
+    color: #666666;
 }
+
 
 
 .idioma{
-    background-color: aquamarine;
+    
     display: flex;
 }
 input{
@@ -32,7 +33,7 @@ input{
     display: flex;
     width: 100vw;
     justify-content: space-between;
-    background-color: blueviolet;
+    background-color: #ecf3fc;
     padding-top: 8px;
     align-items: baseline;
     align-items: center;
