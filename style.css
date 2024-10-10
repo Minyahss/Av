@@ -8,21 +8,33 @@
 /* parte da yasmin*/
 
 
-footer{
-    display: flex;
-}
+
 
 .contato{
     display: flex;
     background-color: aqua;
+    height: 19px;
 }
 
+.idioma{
+    background-color: aquamarine;
+    display: flex;
+    height: 19px;
+}
+input{
+    width: 10vw;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 16px;
+}
 
 .cabecalho1{
     display: flex;
     width: 100vw;
     justify-content: space-between;
     background-color: blueviolet;
+    padding-top: 8px;
+    
 }
 
 
