@@ -1,114 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-*{
-    margin: 0;
-    padding: 0;
-}
-
-/* parte da yasmin*/
-
-header{
-    font-size: 4px;
-}
-
-.contato{
-    display: flex;
-   
-}
-.idioma{
-    display: flex;
-}
-
-.cabectext{
-    color: #666666;
-    font-family: Poppins;
-    font-size: 3em;
-}
-
-
-
-#lista{
-    width: 80px;
-    background-color: transparent;
-    border-style: solid;
-    border-radius: 12px;
-}
-
-.cabecalho1{
-    display: flex;
-    width: 100vw;
-    justify-content: center;
-    justify-content: space-around;
-    background-color: #ecf3fc;
-    align-items: baseline;
-    align-items: center;
-    padding: 1%;
-    
-    
-}
-.cabecalho2{
-    display: flex;
-    width: 100vw;
-    justify-content: center;
-    justify-content: space-around;
-    background-color: #ffffff;
-    align-items: baseline;
-    align-items: center;
-    padding: 1%;
-}
-.email{
-    display: flex;
-}
-
-button{
-    background-color: #183661;
-    color: #ffffff;
-    border-color: #183661;
-    border-style: solid;
-    border-width: 5px;
-    border-radius: 12px;
-}
-
-@media(width <= 420){
-
-}
-
-
-/* parte do kawa*/
-
-footer{
-    display: flex;
-    background-color: #183661;
-    font-family: "Poppins", sans-serif;
-    padding: 5%;
-    justify-content: space-between;
-}
-.titulo{
-    font-size: 15px;
-    color: #ffffff;
-    margin: 5%;
-}
-
-.paragrago{
-    font-size: 15px;
-    color: #ffffff;
-    margin: 5%;
-}
-#direitos{
-    text-align: center;
-    color: #141414;
-    background-color: white;
-    padding: 2%;
-
-}
-
-@media(width <= 720px){
-    footer{
-        display: flex;
-        flex-direction: column;
+#Banner1{
+    #pdf{
+        background-image: "img/bannerjpg";
+        
     }
-}
-
-/* parte do greg*/
-
-
+    }
+    
+    #h1{
+        font-family:[];
+    }
+    
+    #bu{
+    
+    }
