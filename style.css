@@ -11,8 +11,8 @@
     display: flex;
     background-color: aqua;
 }
-#cabectext{
-    background-color: #666666;
+.cabectext{
+   color: #666666;
 }
 
 .idioma{
