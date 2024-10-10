@@ -43,13 +43,29 @@ input{
 
 footer{
     display: flex;
-    background-color: blue;
+    background-color: #183661;
     font-family: "Poppins", sans-serif;
-
-
 }
 #about{
-    
+    font-size: 15px;
+    color: #ffffff;
+}
+#Information{
+    font-size: 15px;
+    color: #ffffff;
+}
+#My_account{
+    font-size: 15px;
+    color: #ffffff;
+}
+#Contacts{
+    font-size: 15px;
+    color: #ffffff;
+}
+
+p{
+    font-size: 14px;
+    color: #ffffff;
 }
 
 /* parte do greg*/
