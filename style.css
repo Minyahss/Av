@@ -201,8 +201,7 @@ footer{
             max-width: 100%;
         }
     }
-    .foto_da_muie{
-        background-image: url(img/fashion.jpg);
+    #imagem_da_muie{
         max-width: 100%;
     }
 
@@ -262,3 +261,4 @@ footer{
 .titulo{
     color:white;
 }
+                        }
