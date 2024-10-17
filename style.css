@@ -12,9 +12,10 @@ header{
     font-size: 4px;
 }
 
-.contato, .idioma{
+.contato, .idioma, .redes_sociais{
     display: flex;
-    padding: 1vw;
+    padding: 0.5%;
+    background-color: aquamarine;
 }
 
 
@@ -47,9 +48,8 @@ header{
 .cabecalho2{
     display: flex;
     justify-content: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     background-color: #b82929;
-    align-content: baseline;
     align-items: center;
 
     
@@ -58,7 +58,9 @@ header{
 .email, .logotipo, .order{
     display: flex;
     background-color: aqua;
-    padding: 1vw;
+    padding: 1%;
+
+
    
 }
 
