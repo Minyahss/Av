@@ -14,6 +14,7 @@ header{
 
 .contato, .idioma{
     display: flex;
+    padding: 1vw;
 }
 
 
@@ -41,7 +42,7 @@ header{
     align-content: baseline;
     align-items: center;
 
-    padding: 1vw;
+
     
 }
 .cabecalho2{
