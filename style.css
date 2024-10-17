@@ -117,20 +117,10 @@ footer{
 }
 
 /* parte do greg*/
-#Banner1{
-    #pdf{
-        background-image: "img/bannerjpg";
-        
-    }
-    }
     
-    #h1{
-        font-family:[];
-    }
     .pano_fundo{
         display: flex;
         background-image: url(img/banner.jpg);
-        justify-content: space-between;
         padding-top: 5%;
     
 
@@ -175,6 +165,31 @@ footer{
         font-size: 100%;
         
 
+    }   
+
+    @media(width <= 720px){
+        .pano_fundo{
+            display: flex;
+            flex-direction: column;
+        }
+        #txtao{
+            font-size: 13vw;
+            padding: 0vw;
+            margin: 1vw;
+        }
+        #MENOR{
+            margin: 1vw;
+            padding: 0vw;
+            font-size: 10vw;
+        }
+        #menor_menor{
+            margin: 1vw;
+            font-size: 5vw;
+            margin-bottom: 5vw;
+        }
+        #ban{
+            max-width: 100%;
+        }
     }
 
    
