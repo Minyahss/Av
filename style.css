@@ -12,14 +12,10 @@ header{
     font-size: 4px;
 }
 
-.contato{
-    display: flex;
-    
-   
-}
-.idioma{
+.contato, .idioma{
     display: flex;
 }
+
 
 .cabectext{
     color: #666666;
@@ -44,21 +40,26 @@ header{
     background-color: #ecf3fc;
     align-content: baseline;
     align-items: center;
-    padding: 1%;
-    
+
+    padding: 1vw;
     
 }
 .cabecalho2{
     display: flex;
     width: 100vw;
-    justify-content: center; 
-    background-color: #ffffff;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #b82929;
+    align-content: baseline;
     align-items: center;
-    padding: 3%;
+
+    
+    
 }
 .email, .logotipo, .order{
-    flex: 0 1 auto;
-    margin: 0 10px;
+    display: flex;
+    background-color: aqua;
+    padding: 1vw;
    
 }
 
@@ -82,10 +83,11 @@ button{
 /* parte do kawa*/
 
 footer{
+    width: 100vw;
     display: flex;
     background-color: #183661;
     font-family: "Poppins", sans-serif;
-    padding: 5%;
+    padding: 5vw;
     justify-content: space-between;
 }
 .titulo{
