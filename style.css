@@ -114,6 +114,15 @@ footer{
         display: flex;
         flex-direction: column;
     }
+    .cabecalho1{
+        display: none;
+    }
+    .cabecalho2{
+        justify-content: flex-start;
+    }
+    .email, .order{
+        display: none;
+    }
 }
 
 /* parte do greg*/
