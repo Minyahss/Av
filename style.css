@@ -127,8 +127,10 @@ footer{
         font-family:[];
     }
     .pano_fundo{
+        display: flex;
         background-image: url(img/banner.jpg);
-        
+        justify-content: space-between;
+        padding-top: 5%;
     
 
     }
@@ -136,5 +138,16 @@ footer{
         max-width: 30%;
         align-items: baseline;
 
+
     }
+    .textons{
+    margin-right: 10%;
+    }
+    #txtao{
+        color: #f2c119;
+        font-family: "Poppins", sans-serif;
+        margin-left: 5vw;
+        font-size: 8vw;
+    }
+    
    
