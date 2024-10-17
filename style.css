@@ -61,15 +61,19 @@ header{
 }
 .email, .logotipo, .order{
     display: flex;
-
     padding: 1%;
 }
 
 
 .categorias{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #ffffff;
+    align-items: center;
+    padding: 6em;
     background-color: #183661;
+    
 }
 .home:hover, .about:hover, .products:hover, .fashion:hover, .news:hover, .contact-us:hover{
     background-color: #f2c119;
