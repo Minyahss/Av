@@ -35,7 +35,6 @@ header{
 
 .cabecalho1{
     display: flex;
-    width: 100vw;
     justify-content: center;
     justify-content: space-around;
     background-color: #ecf3fc;
@@ -47,7 +46,6 @@ header{
 }
 .cabecalho2{
     display: flex;
-    width: 100vw;
     justify-content: center;
     justify-content: space-around;
     background-color: #b82929;
@@ -84,7 +82,7 @@ button{
 /* parte do kawa*/
 
 footer{
-    width: 100vw;
+
     display: flex;
     background-color: #183661;
     font-family: "Poppins", sans-serif;
