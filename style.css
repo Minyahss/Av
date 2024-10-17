@@ -207,6 +207,13 @@ footer{
     }
 
    /*PARTE DO ZÉ*/
+   @media(width <= 720px){
+    #mpa{
+        display: flex;
+        flex-direction: column;
+    }
+   }
+
    #mpa{
     display:flex;
     flex-direction: row;
