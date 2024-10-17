@@ -118,11 +118,12 @@ footer{
         display: none;
     }
     .cabecalho2{
-        justify-content: flex-start;
+        justify-content: space-between;
     }
     .email, .order{
         display: none;
     }
+    
 }
 
 /* parte do greg*/
