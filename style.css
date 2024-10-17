@@ -51,27 +51,17 @@ header{
 .cabecalho2{
     display: flex;
     width: 100vw;
-    justify-content: center;
-    justify-content: space-be;
+    justify-content: center; 
     background-color: #ffffff;
     align-items: center;
     padding: 3%;
 }
-.email{
-    display: flex;
-    height: 18px;
-    text-indent: 8px;
-    background-color: cadetblue;
+.email, .logotipo, .order{
+    
    
 }
 
-.logotipo{
-    background-color: brown;
-}
 
-.order{
-    background-color: aquamarine;
-}
 
 button{
     background-color: #183661;
