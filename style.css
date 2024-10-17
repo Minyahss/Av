@@ -15,7 +15,7 @@ header{
 .contato, .idioma, .redes_sociais{
     display: flex;
     padding: 0.5%;
-    background-color: aquamarine;
+
 }
 
 
@@ -41,6 +41,7 @@ header{
     background-color: #ecf3fc;
     align-content: baseline;
     align-items: center;
+    padding: 1em;
 
 
     
@@ -48,21 +49,19 @@ header{
 .cabecalho2{
     display: flex;
     justify-content: center;
-    justify-content: space-evenly;
-    background-color: #b82929;
+    justify-content: space-around;
+    background-color: #ffffff;
     align-items: center;
-
+    padding: 1em;
     
     
 }
 .email, .logotipo, .order{
     display: flex;
-    background-color: aqua;
+
     padding: 1%;
-
-
-   
 }
+
 
 
 
